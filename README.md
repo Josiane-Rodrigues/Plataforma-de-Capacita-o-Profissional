@@ -5,7 +5,7 @@ Projeto com finalidade da conclusão da atividade final de Projeto Aplicado de D
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Scripts Disponíveis
+## Comandos para iniciar a utilizar o ReactApp
 
 ### `npm start`
 
